@@ -1,0 +1,18 @@
+
+
+
+.row{
+    width:100%;
+    height:400px;
+    background-color: blueviolet;
+    border: 1px solid black;
+}
+.col{
+    width:30%;
+    height:300px;
+    background-color: aqua;
+    border: 1px solid brown;
+    float:left;
+    margin-left: 3%;
+    margin-top: 2%;
+}

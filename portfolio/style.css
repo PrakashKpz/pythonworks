@@ -1,0 +1,6 @@
+.card-image{
+    object-fit: fill;
+}
+.coursel-item>img{
+    height: 400px;
+}
